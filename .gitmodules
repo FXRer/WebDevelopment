@@ -1,0 +1,15 @@
+[submodule "Porfolio/mldangelo"]
+	path = Porfolio/mldangelo
+	url = https://github.com/mldangelo/mldangelo.git
+[submodule "Porfolio/react-resume-template"]
+	path = Porfolio/react-resume-template
+	url = https://github.com/tbakerx/react-resume-template.git
+[submodule "Porfolio/react-sketchapp-resume"]
+	path = Porfolio/react-sketchapp-resume
+	url = https://github.com/francoischalifour/react-sketchapp-resume.git
+[submodule "Porfolio/personal-website-template"]
+	path = Porfolio/personal-website-template
+	url = https://github.com/The-WebOps-Club/personal-website-template.git
+[submodule "Porfolio/hankquinlan.github.io"]
+	path = Porfolio/hankquinlan.github.io
+	url = https://github.com/hankquinlan/hankquinlan.github.io.git
