@@ -13,3 +13,9 @@
 [submodule "Porfolio/hankquinlan.github.io"]
 	path = Portfolio/hankquinlan.github.io
 	url = https://github.com/hankquinlan/hankquinlan.github.io.git
+[submodule "Portfolio/devportfolio"]
+	path = Portfolio/devportfolio
+	url = https://github.com/RyanFitzgerald/devportfolio.git
+[submodule "Portfolio/resume"]
+	path = Portfolio/resume
+	url = https://github.com/knommon/resume.git
