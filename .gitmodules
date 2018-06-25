@@ -22,3 +22,15 @@
 [submodule "Portfolio/woodburyshortridge.github.io"]
 	path = Portfolio/woodburyshortridge.github.io
 	url = https://github.com/WoodburyShortridge/woodburyshortridge.github.io.git
+[submodule "Misc/can-i-see"]
+	path = Misc/can-i-see
+	url = https://github.com/carmalou/can-i-see.git
+[submodule "Finance/FamilyFinance"]
+	path = Finance/FamilyFinance
+	url = https://github.com/farminf/FamilyFinance.git
+[submodule "react-skeleton"]
+	path = react-skeleton
+	url = https://github.com/farminf/react-skeleton.git
+[submodule "angular-skeleton"]
+	path = angular-skeleton
+	url = https://github.com/farminf/Angular_Skeleton.git
