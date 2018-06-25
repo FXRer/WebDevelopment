@@ -19,3 +19,6 @@
 [submodule "Portfolio/resume"]
 	path = Portfolio/resume
 	url = https://github.com/knommon/resume.git
+[submodule "Portfolio/woodburyshortridge.github.io"]
+	path = Portfolio/woodburyshortridge.github.io
+	url = https://github.com/WoodburyShortridge/woodburyshortridge.github.io.git
