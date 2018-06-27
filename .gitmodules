@@ -34,3 +34,9 @@
 [submodule "angular-skeleton"]
 	path = angular-skeleton
 	url = https://github.com/farminf/Angular_Skeleton.git
+[submodule "leetrunghoo.github.io"]
+	path = Portfolio/leetrunghoo.github.io
+	url = https://github.com/leetrunghoo/leetrunghoo.github.io.git
+[submodule "Portfolio/kristin-baumann"]
+	path = Portfolio/kristin-baumann
+	url = https://github.com/kristinbaumann/personal-website.git
