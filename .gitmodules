@@ -88,3 +88,12 @@
 [submodule "Skeletons/gulp-angular-skeleton"]
 	path = Skeletons/gulp-angular-skeleton
 	url = https://github.com/hannaliebl/gulp-angular-skeleton.git
+[submodule "Examples/threeJsBasicExamples"]
+	path = Examples/threeJsBasicExamples
+	url = https://github.com/alexmackey/threeJsBasicExamples.git
+[submodule "Examples/PluralsightWebinar_ThreeJs"]
+	path = Examples/PluralsightWebinar_ThreeJs
+	url = https://github.com/alexmackey/PluralsightWebinar_ThreeJs.git
+[submodule "Examples/IntroToWebGLWithThreeJS"]
+	path = Examples/IntroToWebGLWithThreeJS
+	url = https://github.com/alexmackey/IntroToWebGLWithThreeJS.git
