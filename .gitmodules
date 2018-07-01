@@ -40,3 +40,12 @@
 [submodule "Portfolio/kristin-baumann"]
 	path = Portfolio/kristin-baumann
 	url = https://github.com/kristinbaumann/personal-website.git
+[submodule "Portfolio/blog"]
+	path = Portfolio/blog
+	url = https://github.com/jesusoterogomez/blog.git
+[submodule "Portfolio/website2015"]
+	path = Portfolio/website2015
+	url = https://github.com/jesusoterogomez/website2015.git
+[submodule "Portfolio/personal-website-2017"]
+	path = Portfolio/personal-website-2017
+	url = https://github.com/jesusoterogomez/personal-website-2017.git
