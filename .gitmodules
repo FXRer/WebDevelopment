@@ -1,51 +1,51 @@
 [submodule "Porfolio/mldangelo"]
-	path = Portfolio/mldangelo
+	path = Examples/Portfolio/mldangelo
 	url = https://github.com/mldangelo/mldangelo.git
 [submodule "Porfolio/react-resume-template"]
-	path = Portfolio/react-resume-template
+	path = Templates/react-resume-template
 	url = https://github.com/tbakerx/react-resume-template.git
 [submodule "Porfolio/react-sketchapp-resume"]
-	path = Portfolio/react-sketchapp-resume
+	path = Examples/Portfolio/react-sketchapp-resume
 	url = https://github.com/francoischalifour/react-sketchapp-resume.git
 [submodule "Porfolio/personal-website-template"]
-	path = Portfolio/personal-website-template
+	path = Templates/personal-website-template
 	url = https://github.com/The-WebOps-Club/personal-website-template.git
 [submodule "Porfolio/hankquinlan.github.io"]
-	path = Portfolio/hankquinlan.github.io
+	path = Examples/Portfolio/hankquinlan.github.io
 	url = https://github.com/hankquinlan/hankquinlan.github.io.git
 [submodule "Portfolio/devportfolio"]
-	path = Portfolio/devportfolio
+	path = Examples/Portfolio/devportfolio
 	url = https://github.com/RyanFitzgerald/devportfolio.git
 [submodule "Portfolio/resume"]
-	path = Portfolio/resume
+	path = Examples/Portfolio/resume
 	url = https://github.com/knommon/resume.git
 [submodule "Portfolio/woodburyshortridge.github.io"]
-	path = Portfolio/woodburyshortridge.github.io
+	path = Examples/Portfolio/woodburyshortridge.github.io
 	url = https://github.com/WoodburyShortridge/woodburyshortridge.github.io.git
 [submodule "Misc/can-i-see"]
-	path = Misc/can-i-see
+	path = Examples/can-i-see
 	url = https://github.com/carmalou/can-i-see.git
 [submodule "Finance/FamilyFinance"]
-	path = Finance/FamilyFinance
+	path = Examples/FamilyFinance
 	url = https://github.com/farminf/FamilyFinance.git
 [submodule "react-skeleton"]
-	path = react-skeleton
+	path = Skeletons/react-skeleton
 	url = https://github.com/farminf/react-skeleton.git
 [submodule "angular-skeleton"]
-	path = angular-skeleton
+	path = Skeletons/angular-skeleton
 	url = https://github.com/farminf/Angular_Skeleton.git
 [submodule "leetrunghoo.github.io"]
-	path = Portfolio/leetrunghoo.github.io
+	path = Examples/Portfolio/leetrunghoo.github.io
 	url = https://github.com/leetrunghoo/leetrunghoo.github.io.git
 [submodule "Portfolio/kristin-baumann"]
-	path = Portfolio/kristin-baumann
+	path = Examples/Portfolio/kristin-baumann
 	url = https://github.com/kristinbaumann/personal-website.git
 [submodule "Portfolio/blog"]
-	path = Portfolio/blog
+	path = Examples/Portfolio/blog
 	url = https://github.com/jesusoterogomez/blog.git
 [submodule "Portfolio/website2015"]
-	path = Portfolio/website2015
+	path = Examples/Portfolio/website2015
 	url = https://github.com/jesusoterogomez/website2015.git
 [submodule "Portfolio/personal-website-2017"]
-	path = Portfolio/personal-website-2017
+	path = Examples/Portfolio/personal-website-2017
 	url = https://github.com/jesusoterogomez/personal-website-2017.git
