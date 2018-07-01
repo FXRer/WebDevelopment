@@ -49,3 +49,15 @@
 [submodule "Portfolio/personal-website-2017"]
 	path = Examples/Portfolio/personal-website-2017
 	url = https://github.com/jesusoterogomez/personal-website-2017.git
+[submodule "Libraries/three.js"]
+	path = Libraries/three.js
+	url = https://github.com/mrdoob/three.js.git
+[submodule "Libraries/Babylon.js"]
+	path = Libraries/Babylon.js
+	url = https://github.com/BabylonJS/Babylon.js.git
+[submodule "Libraries/pixi.js"]
+	path = Libraries/pixi.js
+	url = https://github.com/pixijs/pixi.js.git
+[submodule "Libraries/twgl.js"]
+	path = Libraries/twgl.js
+	url = https://github.com/greggman/twgl.js.git
