@@ -61,3 +61,21 @@
 [submodule "Libraries/twgl.js"]
 	path = Libraries/twgl.js
 	url = https://github.com/greggman/twgl.js.git
+[submodule "Examples/RPi/resin-wpe"]
+	path = Examples/RPi/resin-wpe
+	url = https://github.com/resin-io-projects/resin-wpe.git
+[submodule "Examples/360blick-frontend"]
+	path = Examples/360blick-frontend
+	url = https://github.com/ddneat/360blick-frontend.git
+[submodule "Examples/gl-react-v2"]
+	path = Examples/gl-react-v2
+	url = https://github.com/gre/gl-react-v2.git
+[submodule "Examples/react-three-renderer"]
+	path = Examples/react-three-renderer
+	url = https://github.com/toxicFork/react-three-renderer.git
+[submodule "Examples/react-three"]
+	path = Examples/react-three
+	url = https://github.com/Izzimach/react-three.git
+[submodule "Examples/r3test"]
+	path = Examples/r3test
+	url = https://github.com/Izzimach/r3test.git
