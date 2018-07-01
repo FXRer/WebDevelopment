@@ -79,3 +79,12 @@
 [submodule "Examples/r3test"]
 	path = Examples/r3test
 	url = https://github.com/Izzimach/r3test.git
+[submodule "Examples/spring-boot-mongodb-angular-todo-app"]
+	path = Examples/spring-boot-mongodb-angular-todo-app
+	url = https://github.com/callicoder/spring-boot-mongodb-angular-todo-app.git
+[submodule "Skeletons/polymer-skeleton"]
+	path = Skeletons/polymer-skeleton
+	url = https://github.com/PolymerX/polymer-skeleton.git
+[submodule "Skeletons/gulp-angular-skeleton"]
+	path = Skeletons/gulp-angular-skeleton
+	url = https://github.com/hannaliebl/gulp-angular-skeleton.git
