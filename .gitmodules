@@ -154,3 +154,9 @@
 [submodule "3d-scanning-experiments"]
 	path = 3d-scanning-experiments
 	url = https://github.com/gerardobort/3d-scanning-experiments.git
+[submodule "Libraries/webxr"]
+	path = Libraries/webxr
+	url = https://github.com/immersive-web/webxr.git
+[submodule "Libraries/aframe"]
+	path = Libraries/aframe
+	url = https://github.com/aframevr/aframe.git
