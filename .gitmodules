@@ -121,3 +121,6 @@
 [submodule "Examples/webcamjs"]
 	path = Examples/webcamjs
 	url = https://github.com/jhuckaby/webcamjs.git
+[submodule "Examples/Portfolio/alexbain.github.com"]
+	path = Examples/Portfolio/alexbain.github.com
+	url = https://github.com/alexbain/alexbain.github.com.git
