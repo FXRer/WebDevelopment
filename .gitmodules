@@ -124,3 +124,12 @@
 [submodule "Examples/Portfolio/alexbain.github.com"]
 	path = Examples/Portfolio/alexbain.github.com
 	url = https://github.com/alexbain/alexbain.github.com.git
+[submodule "Libraries/phoria.js"]
+	path = Libraries/phoria.js
+	url = https://github.com/kevinroast/phoria.js.git
+[submodule "Libraries/GrimoireJS"]
+	path = Libraries/GrimoireJS
+	url = https://github.com/GrimoireGL/GrimoireJS.git
+[submodule "Libraries/CamanJS"]
+	path = Libraries/CamanJS
+	url = https://github.com/meltingice/CamanJS.git
