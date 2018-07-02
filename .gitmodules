@@ -163,3 +163,6 @@
 [submodule "Examples/BBB/html-js-robot"]
 	path = Examples/BB/html-js-robot
 	url = https://github.com/charifmahmoudi/html-js-robot.git
+[submodule "Examples/RPi/webofthings.js"]
+	path = Examples/RPi/webofthings.js
+	url = https://github.com/webofthings/webofthings.js.git
