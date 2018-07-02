@@ -133,3 +133,15 @@
 [submodule "Libraries/CamanJS"]
 	path = Libraries/CamanJS
 	url = https://github.com/meltingice/CamanJS.git
+[submodule "jeelizFaceFilter"]
+	path = jeelizFaceFilter
+	url = https://github.com/jeeliz/jeelizFaceFilter.git
+[submodule "lab-webgl-home"]
+	path = lab-webgl-home
+	url = https://github.com/jolicode/lab-webgl-home.git
+[submodule "Leap-Three-Camera-Controls"]
+	path = Leap-Three-Camera-Controls
+	url = https://github.com/leapmotion/Leap-Three-Camera-Controls.git
+[submodule "webgl-fundamentals"]
+	path = webgl-fundamentals
+	url = https://github.com/greggman/webgl-fundamentals.git
