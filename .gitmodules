@@ -112,3 +112,12 @@
 [submodule "Libraries/xeogl"]
 	path = Libraries/xeogl
 	url = https://github.com/xeolabs/xeogl
+[submodule "Examples/mediaelement"]
+	path = Examples/mediaelement
+	url = https://github.com/mediaelement/mediaelement.git
+[submodule "Examples/RemoteCamera"]
+	path = Examples/RemoteCamera
+	url = https://github.com/eqot/RemoteCamera.git
+[submodule "Examples/webcamjs"]
+	path = Examples/webcamjs
+	url = https://github.com/jhuckaby/webcamjs.git
