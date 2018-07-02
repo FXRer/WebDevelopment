@@ -134,16 +134,16 @@
 	path = Libraries/CamanJS
 	url = https://github.com/meltingice/CamanJS.git
 [submodule "jeelizFaceFilter"]
-	path = jeelizFaceFilter
+	path = Examples/jeelizFaceFilter
 	url = https://github.com/jeeliz/jeelizFaceFilter.git
 [submodule "lab-webgl-home"]
-	path = lab-webgl-home
+	path = Examples/lab-webgl-home
 	url = https://github.com/jolicode/lab-webgl-home.git
 [submodule "Leap-Three-Camera-Controls"]
-	path = Leap-Three-Camera-Controls
+	path = Examples/Leap-Three-Camera-Controls
 	url = https://github.com/leapmotion/Leap-Three-Camera-Controls.git
 [submodule "webgl-fundamentals"]
-	path = webgl-fundamentals
+	path = Examples/webgl-fundamentals
 	url = https://github.com/greggman/webgl-fundamentals.git
 [submodule "Libraries/webcamjs"]
 	path = Libraries/webcamjs
@@ -152,7 +152,7 @@
 	path = Libraries/reveal.js
 	url = https://github.com/willy-vvu/reveal.js.git
 [submodule "3d-scanning-experiments"]
-	path = 3d-scanning-experiments
+	path = Examples/3d-scanning-experiments
 	url = https://github.com/gerardobort/3d-scanning-experiments.git
 [submodule "Libraries/webxr"]
 	path = Libraries/webxr
@@ -160,3 +160,6 @@
 [submodule "Libraries/aframe"]
 	path = Libraries/aframe
 	url = https://github.com/aframevr/aframe.git
+[submodule "Examples/BBB/html-js-robot"]
+	path = Examples/BBB/html-js-robot
+	url = https://github.com/charifmahmoudi/html-js-robot.git
