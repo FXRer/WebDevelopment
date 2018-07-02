@@ -97,3 +97,18 @@
 [submodule "Examples/IntroToWebGLWithThreeJS"]
 	path = Examples/IntroToWebGLWithThreeJS
 	url = https://github.com/alexmackey/IntroToWebGLWithThreeJS.git
+[submodule "Examples/webgl-3d-model-viewer-using-three.js"]
+	path = Examples/webgl-3d-model-viewer-using-three.js
+	url = https://github.com/Lorti/webgl-3d-model-viewer-using-three.js.git
+[submodule "Examples/3D-ThreeJS"]
+	path = Examples/3D-ThreeJS
+	url = https://github.com/LambdaSchool/3D-ThreeJS.git
+[submodule "Examples/vtk-js"]
+	path = Examples/vtk-js
+	url = https://github.com/Kitware/vtk-js.git
+[submodule "Examples/RPi/PiViewer"]
+	path = Examples/RPi/PiViewer
+	url = https://github.com/patcat/PiViewer.git
+[submodule "Libraries/xeogl"]
+	path = Libraries/xeogl
+	url = https://github.com/xeolabs/xeogl
