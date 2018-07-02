@@ -151,3 +151,6 @@
 [submodule "Libraries/reveal.js"]
 	path = Libraries/reveal.js
 	url = https://github.com/willy-vvu/reveal.js.git
+[submodule "3d-scanning-experiments"]
+	path = 3d-scanning-experiments
+	url = https://github.com/gerardobort/3d-scanning-experiments.git
