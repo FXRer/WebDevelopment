@@ -161,5 +161,5 @@
 	path = Libraries/aframe
 	url = https://github.com/aframevr/aframe.git
 [submodule "Examples/BBB/html-js-robot"]
-	path = Examples/BBB/html-js-robot
+	path = Examples/BB/html-js-robot
 	url = https://github.com/charifmahmoudi/html-js-robot.git
