@@ -145,3 +145,9 @@
 [submodule "webgl-fundamentals"]
 	path = webgl-fundamentals
 	url = https://github.com/greggman/webgl-fundamentals.git
+[submodule "Libraries/webcamjs"]
+	path = Libraries/webcamjs
+	url = https://github.com/jhuckaby/webcamjs.git
+[submodule "Libraries/reveal.js"]
+	path = Libraries/reveal.js
+	url = https://github.com/willy-vvu/reveal.js.git
