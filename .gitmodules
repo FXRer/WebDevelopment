@@ -172,3 +172,12 @@
 [submodule "Examples/RPi/rpi-webrtc-streamer-frontend"]
 	path = Examples/RPi/rpi-webrtc-streamer-frontend
 	url = https://github.com/kclyu/rpi-webrtc-streamer-frontend.git
+[submodule "Examples/node-todo"]
+	path = Examples/node-todo
+	url = https://github.com/scotch-io/node-todo.git
+[submodule "Examples/RPi/node-angular-raspberry-pi-dashboard"]
+	path = Examples/RPi/node-angular-raspberry-pi-dashboard
+	url = https://github.com/strongloop-community/node-angular-raspberry-pi-dashboard.git
+[submodule "Examples/starter-node-angular"]
+	path = Examples/starter-node-angular
+	url = https://github.com/scotch-io/starter-node-angular.git
