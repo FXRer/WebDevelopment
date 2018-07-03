@@ -181,3 +181,12 @@
 [submodule "Examples/starter-node-angular"]
 	path = Examples/starter-node-angular
 	url = https://github.com/scotch-io/starter-node-angular.git
+[submodule "Examples/simplest-redux-example"]
+	path = Examples/simplest-redux-example
+	url = https://github.com/jackielii/simplest-redux-example.git
+[submodule "Examples/my-simple-app"]
+	path = Examples/my-simple-app
+	url = https://github.com/tylerbuchea/my-simple-app.git
+[submodule "Examples/Contact-List-React-Redux"]
+	path = Examples/Contact-List-React-Redux
+	url = https://github.com/miguelsaddress/Contact-List-React-Redux.git
