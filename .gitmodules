@@ -166,3 +166,9 @@
 [submodule "Examples/RPi/webofthings.js"]
 	path = Examples/RPi/webofthings.js
 	url = https://github.com/webofthings/webofthings.js.git
+[submodule "Examples/RPi/rpi-webrtc-streamer"]
+	path = Examples/RPi/rpi-webrtc-streamer
+	url = https://github.com/kclyu/rpi-webrtc-streamer.git
+[submodule "Examples/RPi/rpi-webrtc-streamer-frontend"]
+	path = Examples/RPi/rpi-webrtc-streamer-frontend
+	url = https://github.com/kclyu/rpi-webrtc-streamer-frontend.git
