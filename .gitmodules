@@ -190,3 +190,18 @@
 [submodule "Examples/Contact-List-React-Redux"]
 	path = Examples/Contact-List-React-Redux
 	url = https://github.com/miguelsaddress/Contact-List-React-Redux.git
+[submodule "Examples/ReactElectronImageBrowser"]
+	path = Examples/ReactElectronImageBrowser
+	url = https://github.com/manojsinghnegiwd/ReactElectronImageBrowser.git
+[submodule "Examples/react-Image-Slider"]
+	path = Examples/react-Image-Slider
+	url = https://github.com/manojsinghnegiwd/react-Image-Slider.git
+[submodule "Examples/react-webcam"]
+	path = Examples/react-webcam
+	url = https://github.com/mozmorris/react-webcam.git
+[submodule "Examples/React_Image_Display"]
+	path = Examples/React_Image_Display
+	url = https://github.com/inkblotty/React_Image_Display.git
+[submodule "Examples/react-cloudinary"]
+	path = Examples/react-cloudinary
+	url = https://github.com/damonbauer/react-cloudinary.git
