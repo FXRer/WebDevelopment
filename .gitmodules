@@ -220,3 +220,12 @@
 [submodule "Examples/RPi/thermoman-360"]
 	path = Examples/RPi/thermoman-360
 	url = https://github.com/fauria/thermoman-360.git
+[submodule "Libraries/p5.js"]
+	path = Libraries/p5.js
+	url = https://github.com/processing/p5.js.git
+[submodule "Libraries/vvvv.js"]
+	path = Libraries/vvvv.js
+	url = https://github.com/zauner/vvvv.js.git
+[submodule "Libraries/mustache.js"]
+	path = Libraries/mustache.js
+	url = https://github.com/janl/mustache.js.git
