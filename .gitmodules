@@ -205,3 +205,15 @@
 [submodule "Examples/react-cloudinary"]
 	path = Examples/react-cloudinary
 	url = https://github.com/damonbauer/react-cloudinary.git
+[submodule "Examples/RPi/Picam360/picam360-server"]
+	path = Examples/RPi/Picam360/picam360-server
+	url = https://github.com/picam360/picam360-server.git
+[submodule "Examples/RPi/Picam360/picam360-viewer"]
+	path = Examples/RPi/Picam360/picam360-viewer
+	url = https://github.com/picam360/picam360-viewer.git
+[submodule "Examples/RPi/Picam360/picam360-hardware"]
+	path = Examples/RPi/Picam360/picam360-hardware
+	url = https://github.com/picam360/picam360-hardware.git
+[submodule "Examples/RPi/Picam360/picam360-capture"]
+	path = Examples/RPi/Picam360/picam360-capture
+	url = https://github.com/picam360/picam360-capture.git
