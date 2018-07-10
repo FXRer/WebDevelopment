@@ -229,3 +229,9 @@
 [submodule "Libraries/mustache.js"]
 	path = Libraries/mustache.js
 	url = https://github.com/janl/mustache.js.git
+[submodule "Examples/thermografree"]
+	path = Examples/thermografree
+	url = https://github.com/loganwilliams/thermografree.git
+[submodule "Examples/RPi/RaspiThermalCam"]
+	path = Examples/RPi/RaspiThermalCam
+	url = https://github.com/rgrokett/RaspiThermalCam.git
