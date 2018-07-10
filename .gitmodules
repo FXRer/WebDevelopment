@@ -235,3 +235,27 @@
 [submodule "Examples/RPi/RaspiThermalCam"]
 	path = Examples/RPi/RaspiThermalCam
 	url = https://github.com/rgrokett/RaspiThermalCam.git
+[submodule "Examples/webgl-hdr"]
+	path = Examples/webgl-hdr
+	url = https://github.com/szimek/webgl-hdr.git
+[submodule "Examples/React-GL"]
+	path = Examples/React-GL
+	url = https://github.com/PixelsCommander/React-GL.git
+[submodule "Examples/ScrollSpiral"]
+	path = Examples/ScrollSpiral
+	url = https://github.com/codrops/ScrollSpiral.git
+[submodule "Examples/numgl"]
+	path = Examples/numgl
+	url = https://github.com/jongomez/numgl.git
+[submodule "Examples/threejs-intro"]
+	path = Examples/threejs-intro
+	url = https://github.com/davidlyons/threejs-intro.git
+[submodule "Examples/HTML-GL"]
+	path = Examples/HTML-GL
+	url = https://github.com/PixelsCommander/HTML-GL.git
+[submodule "Libraries/webgl-heatmap"]
+	path = Libraries/webgl-heatmap
+	url = https://github.com/pyalot/webgl-heatmap.git
+[submodule "Libraries/pragmatic-pbr"]
+	path = Libraries/pragmatic-pbr
+	url = https://github.com/vorg/pragmatic-pbr.git
