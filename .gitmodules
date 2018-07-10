@@ -259,3 +259,27 @@
 [submodule "Libraries/pragmatic-pbr"]
 	path = Libraries/pragmatic-pbr
 	url = https://github.com/vorg/pragmatic-pbr.git
+[submodule "Examples/dom-to-image"]
+	path = Examples/dom-to-image
+	url = https://github.com/tsayen/dom-to-image.git
+[submodule "Examples/react-konva"]
+	path = Examples/react-konva
+	url = https://github.com/konvajs/react-konva.git
+[submodule "Examples/rasterizeHTML.js"]
+	path = Examples/rasterizeHTML.js
+	url = https://github.com/cburgmer/rasterizeHTML.js.git
+[submodule "Examples/electron-threejs-example"]
+	path = Examples/electron-threejs-example
+	url = https://github.com/jeromeetienne/electron-threejs-example.git
+[submodule "Examples/BabylonJS-Electron"]
+	path = Examples/BabylonJS-Electron
+	url = https://github.com/justinctlam/BabylonJS-Electron.git
+[submodule "Examples/Electronylon"]
+	path = Examples/Electronylon
+	url = https://github.com/mmmeff/Electronylon.git
+[submodule "Examples/infragram-js"]
+	path = Examples/infragram-js
+	url = https://github.com/bgamari/infragram-js.git
+[submodule "Examples/HTML5-Face-Detection"]
+	path = Examples/HTML5-Face-Detection
+	url = https://github.com/wesbos/HTML5-Face-Detection.git
