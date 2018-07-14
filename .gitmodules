@@ -295,3 +295,30 @@
 [submodule "Libraries/ami"]
 	path = Libraries/ami
 	url = https://github.com/FNNDSC/ami.git
+[submodule "Libraries/WebGL-Inspector"]
+	path = Libraries/WebGL-Inspector
+	url = https://github.com/benvanik/WebGL-Inspector.git
+[submodule "Libraries/WebGL"]
+	path = Libraries/WebGL
+	url = https://github.com/KhronosGroup/WebGL.git
+[submodule "Libraries/I2Djs"]
+	path = Libraries/I2Djs
+	url = https://github.com/I2Djs/I2Djs.git
+[submodule "Examples/potree"]
+	path = Examples/potree
+	url = https://github.com/potree/potree.git
+[submodule "Examples/sculptgl"]
+	path = Examples/sculptgl
+	url = https://github.com/stephomi/sculptgl.git
+[submodule "Examples/webgl-filter"]
+	path = Examples/webgl-filter
+	url = https://github.com/evanw/webgl-filter.git
+[submodule "Examples/webgl-image-filter"]
+	path = Examples/webgl-image-filter
+	url = https://github.com/slub/webgl-image-filter.git
+[submodule "Examples/WebGLImageFilter"]
+	path = Examples/WebGLImageFilter
+	url = https://github.com/phoboslab/WebGLImageFilter.git
+[submodule "Examples/ngl"]
+	path = Examples/ngl
+	url = https://github.com/arose/ngl.git
