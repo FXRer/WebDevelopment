@@ -283,3 +283,12 @@
 [submodule "Examples/HTML5-Face-Detection"]
 	path = Examples/HTML5-Face-Detection
 	url = https://github.com/wesbos/HTML5-Face-Detection.git
+[submodule "Examples/depthcamera-pointcloud-web-demo"]
+	path = Examples/depthcamera-pointcloud-web-demo
+	url = https://github.com/01org/depthcamera-pointcloud-web-demo.git
+[submodule "Examples/eventide"]
+	path = Examples/eventide
+	url = https://github.com/prayasht/eventide.git
+[submodule "Examples/react-canvas"]
+	path = Examples/react-canvas
+	url = https://github.com/Flipboard/react-canvas.git
