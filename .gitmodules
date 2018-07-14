@@ -292,3 +292,6 @@
 [submodule "Examples/react-canvas"]
 	path = Examples/react-canvas
 	url = https://github.com/Flipboard/react-canvas.git
+[submodule "Libraries/ami"]
+	path = Libraries/ami
+	url = https://github.com/FNNDSC/ami.git
