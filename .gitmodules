@@ -328,3 +328,6 @@
 [submodule "Libraries/fabric.js"]
 	path = Libraries/fabric.js
 	url = https://github.com/fabricjs/fabric.js.git
+[submodule "Examples/photo-editor"]
+	path = Examples/photo-editor
+	url = https://github.com/samuxyz/photo-editor.git
