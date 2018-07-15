@@ -322,3 +322,9 @@
 [submodule "Examples/ngl"]
 	path = Examples/ngl
 	url = https://github.com/arose/ngl.git
+[submodule "Libraries/darkroomjs"]
+	path = Libraries/darkroomjs
+	url = https://github.com/MattKetmo/darkroomjs.git
+[submodule "Libraries/fabric.js"]
+	path = Libraries/fabric.js
+	url = https://github.com/fabricjs/fabric.js.git
