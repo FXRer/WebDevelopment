@@ -331,3 +331,6 @@
 [submodule "Examples/photo-editor"]
 	path = Examples/photo-editor
 	url = https://github.com/samuxyz/photo-editor.git
+[submodule "Examples/plasio"]
+	path = Examples/plasio
+	url = https://github.com/verma/plasio.git
