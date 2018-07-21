@@ -334,3 +334,6 @@
 [submodule "Examples/plasio"]
 	path = Examples/plasio
 	url = https://github.com/verma/plasio.git
+[submodule "Examples/WebGLVolumeRendering"]
+	path = Examples/WebGLVolumeRendering
+	url = https://github.com/lebarba/WebGLVolumeRendering.git
