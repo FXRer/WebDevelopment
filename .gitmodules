@@ -337,3 +337,6 @@
 [submodule "Examples/WebGLVolumeRendering"]
 	path = Examples/WebGLVolumeRendering
 	url = https://github.com/lebarba/WebGLVolumeRendering.git
+[submodule "Examples/Thesis"]
+	path = Examples/Thesis
+	url = https://github.com/TimvanScherpenzeel/Thesis.git
