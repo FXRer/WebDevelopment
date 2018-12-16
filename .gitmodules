@@ -340,3 +340,6 @@
 [submodule "Examples/Thesis"]
 	path = Examples/Thesis
 	url = https://github.com/TimvanScherpenzeel/Thesis.git
+[submodule "Examples/HomeOverlord"]
+	path = Examples/HomeOverlord
+	url = https://github.com/Udo/HomeOverlord
